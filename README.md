@@ -14,16 +14,24 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-- 👨🏻‍💻 I’m a C developer in YanTai
-- 📚 C/C++ & Objective-C & JavaScript & Python
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangbryant&layout=compact" /> -->
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yangbryant&show_icons=false&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangbryant&layout=compact" />
+```
+👨🏻‍💻 I’m a C developer in YanTai
+📚 C/C++ & Objective-C & JavaScript & Python
+```
+<br />
+<a href="https://github.com/yangbryant/yangbryant">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangbryant&layout=compact" alt="Srefan :: Top Langs" />
 </a>
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=aidevjoe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
+<!--
+<p align="left">
+  <a href="https://github.com/yangbryant/yangbryant">
+    <img heigth="150" align="left" src="https://github-readme-stats.vercel.app/api?username=yangbryant&show_icons=false&hide_title=true" alt="Srefan :: Profile Stats" />
+  </a>
+  <a href="https://github.com/yangbryant/yangbryant">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangbryant&layout=compact" alt="Srefan :: Top Langs" />
+  </a>
+</p>
+-->
+
