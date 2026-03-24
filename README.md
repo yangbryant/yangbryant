@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 ```
 👨🏻‍💻 I’m a C developer in YanTai
-📚 C/C++ & Objective-C & JavaScript & Python
+🌱 Image processing based on Linux and STM32
+📚 C/C++ & Python & JavaScript & Objective-C
 ```
 <br />
 <a href="https://github.com/yangbryant/yangbryant">
